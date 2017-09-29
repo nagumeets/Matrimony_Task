@@ -6,7 +6,7 @@ import retrofit2.Call;
 import retrofit2.Response;
 
 /**
- * Created by Lincoln on 18/05/16.
+ * Created by ItropeAndroid on 9/28/2017.
  */
 public class Album {
     int id;

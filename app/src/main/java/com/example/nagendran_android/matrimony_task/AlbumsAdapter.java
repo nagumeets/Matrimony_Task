@@ -14,7 +14,7 @@ import com.nostra13.universalimageloader.core.ImageLoader;
 import java.util.List;
 
 /**
- * Created by Ravi Tamada on 18/05/16.
+ * Created by ItropeAndroid on 9/28/2017.
  */
 public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.MyHolder> {
 
